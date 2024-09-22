@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>DuplicateViews</Name>
+		<Assembly>DuplicateViews/DuplicateViews.dll</Assembly> // the path at revit directory
+		<FullClassName>DuplicateViews.App</FullClassName>
+		<ClientId>
+			C56EF28B-1E5B-41C9-B0C1-CF7C5EBD3474
+		</ClientId>
+		<VendorId>DummyVendorId</VendorId>
+		<VendorDescription>DummyDescription</VendorDescription>
+	</AddIn>
+
+</RevitAddIns>
